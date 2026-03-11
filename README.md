@@ -1,2 +1,2 @@
 # gh-actions
-Repository containing examples, and notes on GitHub actions
+Repository containing examples, learnings and notes on GitHub actions.
